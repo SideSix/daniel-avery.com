@@ -1,2 +1,161 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+/*Styles by Daniel Avery, Side Six ----------------- */
+
+body > nav {
+    @include my-nav-bg;
+    border-top: none;
+    margin: 0;
+    padding: .5em 3em;
+    fieldset[role="search"] {
+        border: none;
+    }
+    @media only screen and (max-width: 600px) {
+        padding: .5em 1em;
+    }
+    @media only screen and (max-width: 550px) {
+        width: 100%;
+         padding: .3em 0;
+         form {padding: 0; margin: 0;}
+            fieldset[role="search"] {
+                margin: 0 .2em;
+                padding: .5em 0;
+                padding-right: .5em;
+                border: none;
+            }
+            fieldset.mobile-nav {
+                padding: 0;
+                padding: .5em 0;
+                padding-left: .5em;
+                border: none;
+            }
+    }
+}
+
+#container {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    header {
+        background: none;
+        margin: 0;
+        font-family: $heading-font-family;
+    }
+    p {font-family: $sans;}
+    ul {
+        list-style: none;
+        font-family: $sans;
+    }
+}
+
+ul, ol { &, ul, ol { margin-left: 0 }}
+
+header#page-top {
+    font-family: $header-title-font-family;
+    text-align: center;
+    color: #222;
+    font-size: 1.5em;
+    text-shadow: 0 2px 3px #555;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+header[role="banner"] {
+    margin: 0;
+    padding: 0 .5em;
+    height: 130px;
+    background: url(../images/medstreets.jpg) no-repeat;
+    text-align: right;
+    h1 {color: #C78F78; z-index: 100; padding-right: 10px;}
+    h2 {color: #EDB68F; font-size: .7em; padding-bottom: .5em; z-index: 110; padding-right: 10px;}
+    @media only screen and (max-width: 600px) {
+        text-align: left;
+            h1 {color: #533B32; padding: 5px;}
+            h2 {color: #000; padding-left: 5px; font-size: .9em;}
+    }
+}
+
+#page-title {
+    padding: 0;
+    padding-left: percentage(100/1200);
+    margin: 0;
+    font-family: $heading-font-family;
+}
+
+section[role="main"] {
+    float:left;
+    width: 48%;
+    margin: 0;
+    padding: 0;
+    padding-left: percentage(100/1200);
+        p { 
+            width: 80%;
+        }
+        @media only screen and (max-width: 768px) {
+            padding-left: percentage(25/768);
+            p { width: 98%;}
+        }
+        @media only screen and (max-width: 320px) {
+            float: none;
+            width: 95%;
+        }
+}
+
+#main-header {
+    padding-right: 12px;
+    @media only screen and (max-width: 320px) {
+        padding-right: 0;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+#portrait {
+    float: right;
+    width: 40%;
+    text-align: center;
+    @media only screen and (max-width: 600px) {
+        padding-right: 15px;
+    }
+    @media only screen and (max-width: 320px) {
+        float: none;
+        width: 90%;
+        padding: 5%;
+    }
+}
+
+#portrait img {
+    @include shadow-box;
+}
+
+figcaption {
+    font-family: $sans;
+    text-align: center;
+    font-size: .9em;
+}
+
+footer[role="contentinfo"] {
+    color: #C4B644;
+    margin: 0!important;
+    font-size: .8em;
+    p a {
+        color: #ABD1DE;
+        text-decoration: none;
+    }
+    p a:visited {
+        color: #ABD1DE;
+        text-decoration: none;
+    }
+    p a:hover {color: #A6A277;}
+}
+
+article p {
+    font-family: $sans;
+    font-size: .9em;
+}
+
+h1.entry-title a{
+    font-family: $serif;
+    font-weight: normal;
+    font-size: 1em;
+}

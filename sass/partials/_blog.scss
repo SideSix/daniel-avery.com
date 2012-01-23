@@ -9,11 +9,13 @@ article {
     background: $img-border bottom left repeat-x;
     h1 {
       margin: 0;
+      font-size: 1.5em;
+      font-family: $serif;
       a { text-decoration: none;
         &:hover { text-decoration: underline; } }
     }
     p {
-      font-size: .9em;
+      font-size: .8em;
       color: $text-color-light;
       margin: 0;
       &.meta {
@@ -92,7 +94,8 @@ article + article {
   article { padding-top: 2em; }
   article header { background: none; padding-bottom: 0; }
   article h1 {
-    font-size: 2.2em;
+    font-size: 1.5em;
+    font-weight: Regular;
     a { color: inherit; &:hover { color: $link-color-hover; } }
   }
   a[rel=full-article] {

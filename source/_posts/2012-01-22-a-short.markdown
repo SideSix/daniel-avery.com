@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A Short, Pretty Factual History Of Weird Times"
+date: 2012-01-22 14:48
+comments: true
+categories: [weird times, history]
+---
+When I got my first Macintosh I was living in Costa Mesa and I was thrilled by the word processing features.  I forget what software I was using to write but the computer came with some really cool fonts. So I decided to do a newsletter and mail it off to my friends in Minnesota.  I called this newsletter *Weird Times* because it seemed to fit the times I was living in. It had a sort of "news from the front" tone to it, if I remember correctly.  Perhaps that is just the way I romanticize the memory.  I have no idea.
+
+I had edited the literary magazine at Macalester College when I was a student there, and I had fun laying out *Weird Times,* trying out different things with columns and with fonts.  Sometimes I would toss in an image or something I created on my Mac. The stories were rather Hunter S. Thompsonesque and were about things like the funeral of Richard Nixon.
+<!-- more -->
+Some of my friends enjoyed reading *Weird Times* and would put it up on their refrigerator with the other stuff.  That's a real honor if you think about it. Some issues featured a poem or two and I like to picture them on Dan Cianchette's refrigerator along with drawings by his kids and other stuff from Dan's life. I think that is what being creative is about &ndash; ending up on a refrigerator door under a couple of goofy magnets.
+
+Somewhere in there I got interested in the World Wide Web.  I had heard about HTML while in graduate school.  I was getting a degree in fiction writing and this woman named Deb who was getting a degree in Medieval Literature told me about the nature of hyper-text one night.  I thought hyper-text sounded pretty damn exciting from a narrative standpoint &ndash; as a narrative device that is, and I could picture something very Faulknerian, a narrative sprawling all over the world, changing depending on the links you clicked. So I put *Weird Times* up on the web. 
+
+It didn't last long. Back in those days, almost twenty years ago now, you put everything into a table in order to display it on a web page.  Putting a poem inside of a table is an extremely violent act. I just didn't have the stomach for it. 
+
+With the death of my website, *Weird Times* became "Perspectives," which was a column I wrote for *Hot Lava Magazine,* a national publication that eventually went out of business. 
+
+A couple of years ago I became involved in Mission Viejo Politics because there was a small group of malcontents who wanted to recall a city council member, put their own guy on there, and then start running the city their way by closing the library, the community center, the animal shelter, and they were going to fire the school resource officers and the motorcycle deputies. The latter two groups are a significant reason that Mission Viejo is often rated the safest city in California. 
+
+I ended up making a web site for a candidate that defeated their idiot. I learned about CSS, which meant that I didn't have to put poems in a table anymore. So I put *Weird Times* back up, first as a WordPress site and then a Drupal site.  I hated both of those programs.  So *Weird Times* died again.  Last month I began to learn Ruby and Ruby on Rails.  I noticed Octopress , which is a static site generator that uses Ruby. (That's overly simplified, of course. Ocotpress is actually magic.)
+
+So here we are again, *Weird Times.* The times have not gotten less weird since 1991.  Oh no, they have gotten even more weird. Hang on.
+ 

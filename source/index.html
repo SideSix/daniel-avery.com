@@ -1,29 +1,41 @@
 ---
-layout: default
+layout: my-page
+title: "Daniel Avery"
+comments: false
+footer: true
 ---
-
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    <a href="/blog/archives">Blog Archives</a>
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
-</div>
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
+      <section role="main">    
+          <article>
+          <header id="main-header">
+            <h2>Hi, my name is Dan. I create stuff.</h2>
+          </header><!-- /header -->
+              <p>One day back in the 1970's, I realized that I liked creating stuff. It's a fascinating process, creation, and I've spent a lot of my adult life engaged in and thinking about the process.</p>             
+              <p> Of course when you start talking about what really happens in the creative process you immediately sound "crazy as a loon" to those listening, unless your Michelangelo. </p>
+              <aside class="clearfix:after">
+                {% blockquote Michelangelo, Famous Artist %}
+                  I just chiseled away the marble that wasn't David.
+                {% endblockquote %}
+              </aside>
+              <p>I guess if you are actually Michelangelo, the women come and go talking about you. (Sorry. That's an old English major's joke.)</p>
+            <p>Here's a list of some stuff I create that might interest you:</p> 
+              <ul>
+                <li><a href="http://sidesix.org">Web Sites</a></li>
+                <li><a href="http://ipadpoems.net">Poems</a></li>
+                <li>Short Stories - web site coming soon</li>
+                <li>Graphic Images</li>
+                <li>Blog Articles</li>
+                    <ul>
+                      <li><a href="http://missionviejopatch.com" title="The Mission Viejo Patch">The Mission Viejo Patch</a></li>
+                      <li><a href="http://sidesix.org/aside/" title="Aside - Notes on creativity and the web">Aside - Notes on creativity and the web</a></li>
+                      <li><a href="http://daniel-avery.com/blog/" title="Weird Times">Weird Times</a></li>
+                    </ul><!-- /  end blogs-->
+              </ul><!-- end list -->
+        </article>
+      </section> <!-- end bio -->
+      <section  id="portrait">
+        <figure>
+              <img src="images/dan.png" alt="Sketch of Daniel Avery">
+                <figcaption>A Self-Portrait</figcaption>
+            </figure>    
+      </section>
+                  <div class="clear"></div>
