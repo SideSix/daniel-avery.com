@@ -101,6 +101,14 @@ section[role="main"] {
         }
 }
 
+#full-width {
+	width: percentage(600/1200);
+	margin: 0 auto;
+	@media only screen and (max-width: 768px) {
+		width: percentage(600/768);
+	}
+}
+
 #main-header {
     padding-right: 12px;
     @media only screen and (max-width: 320px) {
