@@ -13,3 +13,5 @@ vendor
 node_modules
 
 avery.esproj/
+.tm_properties
+TODO
