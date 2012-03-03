@@ -1,0 +1,45 @@
+---
+layout: post
+title: "A Clean, Well-lighted Hallway"
+date: 2012-03-01 12:29
+comments: true
+categories: [dignity, humanity, death, dying, loss]
+---
+{% blockquote Kobayashi Issa, http://en.wikipedia.org/wiki/Kobayashi_Issa A Japanese Poet %}
+露の世は露の世ながらさりながら
+Tsuyu no yo wa tsuyu no yo nagara sari nagara 
+
+The world of dew – 
+A world of dew it is indeed,
+And yet, and yet … 
+{% endblockquote %}
+
+
+I’m originally from Minnesota, and there is a sound ice makes as it cracks just behind your heels, less than a half inch away. It’s sound that is as physical, fleeting, and blindingly beautiful as sunlight glistening in a water drop on the top of a Mallard’s head. {% img right /images/thin-ice.jpg 'Warning, The Ice Is Thin' 'an image of a man on a lawn next to a sign saying warning thin ice' %}
+
+It sounds like this: picture a hospital room with more than four people in white coats looking down at the person in the bed; sometimes, it sounds like eight, nine, ten white coats clustered around that hospital bed.  You’re out in the hall and that person in the bed is one of your people. Ice cracking…the sound of life. 
+
+<!-- more -->
+
+Eventually, the white coats start walking out of that room; the more of them that were in there, the slower they walk; they walk a lot slower than they went in. One of them heads your way with this look; it’s such a human look: helpless futility, it’s the look of knowledge one really doesn’t want to impart; it’s painful knowledge; the price of it is way too high. You can see that much in the eyes of the healer in the white coat. We may not recognize that look the very first time we encounter it, but, every time after that we feel for the person making that long walk across the hall to us. 
+
+I saw that look one afternoon in the hallway of a nursing home not far from the Mall of America.  The look. And then he actually said, “I could carve a hole in her throat, snake a tube in, and dump in food for the next ten years.” Imagine why a healer might say it that way to you. 
+
+When it’s your kin you ask, “What is the ‘or,’ Doctor?” 
+
+The “or,” because of our Puritanical culture, is never kind.
+
+People, we need a kinder way…a more humane way to deal with ice breaking up, with someone we love dearly leaving this life. Doctors need to be free to treat our kin with genuine human compassion.  We need to learn what the sunset means and not just call it “pretty”.
+
+I sat and fed my grandmother ice chips for three days while she starved to death. 
+
+Giving her a great big needle full of morphine or heroin would have been illegal and considered “immoral.”
+I sure as hell didn’t fancy some doctor dumping food into a tube for ten years and calling it my Grandma.
+
+My Grandmother wasn’t some Chevrolet you just keep running…her name was Marguerite and she liked to have boyfriends and go bowling…she lived to drive down country roads looking at the leaves and stop for lunch in Pequot Lakes. “Play, George,” she’d say, if you were taking too long deciding which card to lay down. She would kill a mosquito and then say, “Sinner.” She wore those great big clip-on earrings and told me to “have fun, because no matter how long you live, it isn’t going to be long enough.” 
+
+I saw that look again the other day from a man in white coat in a clean, well-lighted hallway. My wife’s father was in the bed. It never gets easier, but sometimes it’s more swift than others.
+
+I’ll see that look again because life, the way we live it, is, sadly, a game of attrition.
+{% pullquote %}
+Dave Rukstalis was a very good man. I learned a lot from him. It sounds trite, but I mean it. {"If you come out of life clean enough that people can say you were good, that you were honest, and that they learned from you…if that is the case, you lived a great life."} Someday I’ll be lying in that bed surrounded by all those folks wearing white coats. I expect I’ll be tired. The people I’ve seen in that bed are always tired.  I’m not betting that our country will have gotten all that much kinder by then. But I hope. {% endpullquote %}
