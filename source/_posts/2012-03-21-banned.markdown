@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Banned"
+date: 2012-03-21 12:46
+comments: true
+categories: [Banned, Doonesbury, Abortion, Congress, Republicans]
+---
+### Why Ban the Written Word?
+
+Well, I've always figured it was because the author just got too close to the truth. Books like *The Adventures of Huckleberry Finn,* *The Catcher In The Rye,* *Naked Lunch,* *Doonesbury,* and many others surely do that &ndash; get to close to the truth, I mean. 
+
+I've always felt that to ban an artist's work is to pay him or her the highest compliment possible. I hope to write something one day that is worthy of being banned.  This, clearly, isn't it. 
+
+Gary Trudeau has done it quite a few times. I admire him simply for that. Plus he's damn funny. It's hard to make someone laugh with words and drawings on the page. Damn hard. Mr. Trudeau's latest banned work follows. Just click the button below.
+
+<!-- more -->
+
+{% img /images/doonesbury-abortion-1.jpg 478 618 'The first banned abortion Doonesbury strip' 'A Doonesbury Cartoon' %}
+
+{% img /images/doonesbury-abortion-2.jpg 475 610 'The second banned abortion Doonesbury strip' 'A Doonesbury Cartoon' %}
