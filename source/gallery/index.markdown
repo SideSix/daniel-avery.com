@@ -1,13 +1,17 @@
 ---
-layout: page
+layout: my-page
 title: "Gallery"
 comments: false
 sharing: true
 footer: true
 ---
-I use several programs to create images on my Mac and on my iPad. I've listed them below in no particular order. I really like sketching and painting on the iPad. It's almost like sketching on paper, but, of course, less messy because there are no eraser droppings and the paper doesn't ever tear if you draw or erase too hard. 
+ <section id="full-width">
+   <header id="main-header">
+     <h2>Gallery/h2>
+   </header><!-- /header -->
+<p>I use several programs to create images on my Mac and on my iPad. I've listed them below in no particular order. I really like sketching and painting on the iPad. It's almost like sketching on paper, but, of course, less messy because there are no eraser droppings and the paper doesn't ever tear if you draw or erase too hard. </p>
 
-I'll be changing out the images here from time to time as I create ones I really like.  Check back to see what's new!
+<p>I'll be changing out the images here from time to time as I create ones I really like.  Check back to see what's new!</p>
 
 - modo
 - Vue
@@ -34,7 +38,4 @@ I'll be changing out the images here from time to time as I create ones I really
 /images/gallery/clown-table.jpg[clown-table-tb.jpg]: Clowns Trying to put a Poem Inside a Table
 {% endgallery %}
 
-### Want To Comment On Something?
-<script type="text/javascript">document.write(
-"\n<n uers=\"znvygb:qna\100qnavry-nirel\056pbz\">Fraq zr lbhe gubhtugf\056<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-</script>
+</section>

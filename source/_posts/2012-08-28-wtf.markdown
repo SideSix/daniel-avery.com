@@ -1,0 +1,19 @@
+---
+layout: post
+title: "WTF?"
+date: 2012-08-28 22:44
+comments: true
+categories: [Republicans, Seriously, Rape, Women, Morons, Visigoths]
+---
+
+{% blockquote Amanda Marcotte http://readersupportednews.org/opinion2/273-40/13144-shes-just-an-easy-bake-oven %}
+During an interview with WJHL this week, Ryan was asked his view about Rep. Todd Akin, who recently asserted that women could not get pregnant from "legitimate rape." 
+
+"Specifically where you stand when it comes to rape, and when it comes to the issue of should it be legal for a woman to be able to get an abortion if she's raped?" WJHL reporter Josh Smith wondered. 
+
+"I'm very proud of my pro-life record, and I've always adopted the idea that, the position that the method of conception doesn't change the definition of life," Ryan explained. "But let's remember, I'm joining the Romney-Ryan ticket. And the president makes policy."
+{% endblockquote %}
+
+Really?  This guy who wants to be Vice President of The United States thinks that rape is just another method of concpetion?  Seriously? **That is so completely fucked up I'm speechless.** 
+
+And I thought Sarah Palin was as low as we could go. 

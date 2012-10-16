@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Hey Clint"
+date: 2012-08-31 22:44
+comments: true
+categories: 
+---
+
+## Really Clint? You want to hook up with crazy?
+{% img /images/clint.jpg 'Clint Eastwood Loses It' 'Photo of Clint Eastwood at Republican National Convention' %}
